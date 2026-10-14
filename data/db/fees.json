@@ -1,0 +1,151 @@
+[
+  {
+    "id": "fee_001",
+    "studentId": "usr_stu_1",
+    "studentName": "Sanjana Kulkarni",
+    "rollNo": "224048",
+    "semester": 5,
+    "academicYear": "2026-27",
+    "totalFee": 42500,
+    "paidAmount": 42500,
+    "pendingAmount": 0,
+    "dueDate": "2026-11-15",
+    "status": "Paid",
+    "breakdown": {
+      "tuitionFee": 26000,
+      "labFee": 8500,
+      "libraryFee": 2500,
+      "examFee": 3500,
+      "sportsCulturalFee": 2000
+    },
+    "transactions": [
+      {
+        "id": "tx_01",
+        "amount": 25000,
+        "date": "2026-08-10",
+        "paymentMode": "Online",
+        "transactionRef": "KLEPAY240801290",
+        "receiptNo": "REC-2026-BCA-0048A"
+      },
+      {
+        "id": "tx_02",
+        "amount": 17500,
+        "date": "2026-09-22",
+        "paymentMode": "UPI",
+        "transactionRef": "UPI9932145561",
+        "receiptNo": "REC-2026-BCA-0048B"
+      }
+    ]
+  },
+  {
+    "id": "fee_002",
+    "studentId": "usr_stu_2",
+    "studentName": "Aishwarya Angadi",
+    "rollNo": "224002",
+    "semester": 5,
+    "academicYear": "2026-27",
+    "totalFee": 42500,
+    "paidAmount": 30000,
+    "pendingAmount": 12500,
+    "dueDate": "2026-11-15",
+    "status": "Partial",
+    "breakdown": {
+      "tuitionFee": 26000,
+      "labFee": 8500,
+      "libraryFee": 2500,
+      "examFee": 3500,
+      "sportsCulturalFee": 2000
+    },
+    "transactions": [
+      {
+        "id": "tx_03",
+        "amount": 30000,
+        "date": "2026-08-15",
+        "paymentMode": "NetBanking",
+        "transactionRef": "HDFC98421477",
+        "receiptNo": "REC-2026-BCA-0002A"
+      }
+    ]
+  },
+  {
+    "id": "fee_003",
+    "studentId": "usr_stu_3",
+    "studentName": "Shivchetan",
+    "rollNo": "224052",
+    "semester": 5,
+    "academicYear": "2026-27",
+    "totalFee": 42500,
+    "paidAmount": 42500,
+    "pendingAmount": 0,
+    "dueDate": "2026-11-15",
+    "status": "Paid",
+    "breakdown": {
+      "tuitionFee": 26000,
+      "labFee": 8500,
+      "libraryFee": 2500,
+      "examFee": 3500,
+      "sportsCulturalFee": 2000
+    },
+    "transactions": [
+      {
+        "id": "tx_04",
+        "amount": 42500,
+        "date": "2026-08-12",
+        "paymentMode": "Online",
+        "transactionRef": "KLEPAY240801994",
+        "receiptNo": "REC-2026-BCA-0052A"
+      }
+    ]
+  },
+  {
+    "id": "fee_004",
+    "studentId": "usr_stu_4",
+    "studentName": "Rahul Desai",
+    "rollNo": "224035",
+    "semester": 5,
+    "academicYear": "2026-27",
+    "totalFee": 42500,
+    "paidAmount": 15000,
+    "pendingAmount": 27500,
+    "dueDate": "2026-10-25",
+    "status": "Partial",
+    "breakdown": {
+      "tuitionFee": 26000,
+      "labFee": 8500,
+      "libraryFee": 2500,
+      "examFee": 3500,
+      "sportsCulturalFee": 2000
+    },
+    "transactions": [
+      {
+        "id": "tx_05",
+        "amount": 15000,
+        "date": "2026-08-20",
+        "paymentMode": "Challan",
+        "transactionRef": "SYND990142",
+        "receiptNo": "REC-2026-BCA-0035A"
+      }
+    ]
+  },
+  {
+    "id": "fee_1791957988447",
+    "studentId": "usr_1791957988447",
+    "studentName": "Pooja Hegde",
+    "rollNo": "224068",
+    "semester": 5,
+    "academicYear": "2026-27",
+    "totalFee": 42500,
+    "paidAmount": 0,
+    "pendingAmount": 42500,
+    "dueDate": "2026-11-20",
+    "status": "Pending",
+    "breakdown": {
+      "tuitionFee": 26000,
+      "labFee": 8500,
+      "libraryFee": 2500,
+      "examFee": 3500,
+      "sportsCulturalFee": 2000
+    },
+    "transactions": []
+  }
+]

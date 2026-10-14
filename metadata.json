@@ -1,0 +1,6 @@
+{
+  "name": "Smart College Management System - P.C. Jabin Science College",
+  "description": "Centralized, role-based MERN college management platform for K.L.E. Society's P.C. Jabin Science College Autonomous, Hubballi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
